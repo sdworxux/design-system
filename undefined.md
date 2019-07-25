@@ -2,8 +2,6 @@
 
 ## Use headings to create page groups like this one
 
-> my god this is amazing
-
 * [First page's title](https://github.com/sdworxux/design-system/tree/623a926680383ef918285d30c8ae841dbb5c093c/page1/README.md)
   * [Some child page](https://github.com/sdworxux/design-system/tree/623a926680383ef918285d30c8ae841dbb5c093c/page1/page1-1.md)
   * [Some other child page](https://github.com/sdworxux/design-system/tree/623a926680383ef918285d30c8ae841dbb5c093c/part1/page1-2.md)
