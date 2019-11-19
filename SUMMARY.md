@@ -6,5 +6,5 @@
 
 ## Group
 
-* [groupage](group/groupage.md)
+* [Foundational Style](group/groupage.md)
 

@@ -2,7 +2,7 @@
 description: test grouppage
 ---
 
-# groupage
+# Foundational Style
 
 test 
 
