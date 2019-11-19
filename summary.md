@@ -1,4 +1,4 @@
-# Summary 2
+# Summary
 
 ## Use headings to create page groups like this one
 
