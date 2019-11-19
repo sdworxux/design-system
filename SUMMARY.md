@@ -6,5 +6,6 @@
 
 ## Group
 
-* [Foundational Style](group/groupage.md)
+* [Foundational Style](group/groupage/README.md)
+  * [Color](group/groupage/color.md)
 
