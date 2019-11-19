@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SDWorx Design System](README.md)
 * [Summary](undefined.md)
 * [Summary](summary.md)
 
