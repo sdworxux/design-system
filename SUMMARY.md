@@ -1,10 +1,26 @@
 # Table of contents
 
 * [SDWorx Design System](README.md)
+* [Start your project](start-your-project.md)
 
-## Group
+## Foundational Style <a id="group"></a>
 
-* [Foundational Style](group/groupage/README.md)
-  * [Color](group/groupage/color.md)
+* [Logo & Productname](group/logo.md)
+* [Color](group/color.md)
+* [Typography](group/typography.md)
+* [Iconography](group/iconography.md)
+* [Illustrations](group/illustrations.md)
+* [Spacing & Layouts](group/spacing-and-layouts.md)
+* [Responsiveness](group/responsiveness.md)
+* [Animations](group/animations.md)
 * [Old documentation](http://sdbootstrap.sd.dika.be/sdbootstrapdocumentation/documentation/introduction/about)
+
+## Design Directions
+
+* [Gradual discoverability](design-directions/gradual-discoverability.md)
+* [Familarity over trendy](design-directions/familarity-over-trendy.md)
+
+## Design Direction
+
+* [Untitled](design-direction/untitled.md)
 
