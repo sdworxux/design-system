@@ -5,6 +5,7 @@
 
 ## Foundational Style <a id="group"></a>
 
+* [Fav icon](group/fav-icon.md)
 * [Logo & Productname](group/logo.md)
 * [Color](group/color.md)
 * [Typography](group/typography.md)

@@ -93,9 +93,19 @@ Follow the what's new **TODO**: link to what's new page, to keep up to date an o
 
 ## Supporting your Project
 
+### Project Workflow
+
 When to include the Center Of Excellence UX/UI and what kind of deliverables are possible.  Is a lot of assistance needed, do we have all the necessary assets.  We have our own designers, how can they deliver consistent, sdworx branded digital assets?
 
 ![UX Design workflow](.gitbook/assets/workflow-project.png)
+
+### Collaborative tools
+
+Some more information about the all tools we use to help you throughout the project
+
+![SD Worx Design System Collaboration](.gitbook/assets/collaborative-tools.png)
+
+
 
 ## During your project
 
@@ -107,5 +117,19 @@ What to do before you start creating new patterns
 
 ![Proces before designing new assets](.gitbook/assets/comliant-yes-no.png)
 
+## Tools
+
+
+
 ## Share with community
+
+#### Approve your digital asset's compliancy & share it with the community!
+
+Once you have finished working on your digital assets, here are the steps to be followed:  
+**1 -** **Share them** with us through **TODO**. We will review your design and provide **feedback**. Please make sure to drop the CoE UX/UI team a line ↗ to submit your request.  
+**2 -** Once your submission is reviewed and its compliancy approved, please send us your **source file** so we can extract any new modules/features and deploy them to the SD Worx Design System community.  
+**3 -** If you have metrics, share your **metrics** with us by collecting **before/after KPIs** for your website, page or element for us to have quantitative data. This is very valuable and necessary to ensure we keep delivering state-of-the-art templates, tools and ressources.  
+**4 -** Other squads can now download your new digital asset's.  Keep up the good work
+
+![](.gitbook/assets/thank-you.png)
 
