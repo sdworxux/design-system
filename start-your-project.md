@@ -10,15 +10,15 @@ Whether you are a product owner, a designer or a developer, this pages is to mak
 
 Don't design and develop each component from scratch, but use what we have already created for you!
 
-The 3 main questions you should ask yourself...
+The 3 main questions you should ask yourself.
 
-1. Am I following the SD Worx brand guidelines
-2. What are the most up-to-date components from the Design System and where can I find them.
-3. How to reach out to the Center Of Excellence UX/UI team to work with them on a specific design issue I am currently facing?
+![](.gitbook/assets/compliant.png)
 
 
 
 ## What's your profile?
+
+![Are you a product owner, designer or developer?](.gitbook/assets/team.png)
 
 ### Product owner
 
@@ -52,7 +52,7 @@ Be sure to let us know, what we are missing so that we can help others and make 
 
 As a developer, you work hand-in-hand with designers.  To you the most valuable assets are:
 
-* The SDWDS - **TODO**: the link to the sdworx design system implementation documentation
+* The SDWDS is implemented for one platform, namely web based applications - **TODO**: the link to the sdworx design system implementation documentation
 * Foundational Styles
 
 #### The essentials
@@ -85,11 +85,27 @@ Atom design is a helpful design and development methodology, but essentially it'
 * When we place these simple and complex components into a layout and articulate the design underlying content structure we get **templates**.  Often referred to as page's skeleton. eg. a _homepage_, wich provides the context for the abstract molecules and organisms.  It shows how components look and function together in the context of a layout.  For this you can only create a good experience if you know the content.  Sometimes referred to as "low fidelity" wireframes/prototypes.
 * The final level, when we use real representative content in place we get **pages**.  This is what your stakeholders will sign off and this is where you see all your components coming together to form a beautiful and functional user interface.  In this stage you're able to how all thos patterns hold up when real content is applied to the design system.  Sometimes referred to as "high fidelity" wireframes/prototypes.
 
-## Design Systems
+#### Iterative Design
+
+This means that the designs are not fixed and will continue evolve with the feedback of our users, these can be anybody \(product owners, designers, developers, marketeers,... and our end-users\)
+
+Follow the what's new **TODO**: link to what's new page, to keep up to date an our latest releases.
 
 ## Supporting your Project
 
+When to include the Center Of Excellence UX/UI and what kind of deliverables are possible.  Is a lot of assistance needed, do we have all the necessary assets.  We have our own designers, how can they deliver consistent, sdworx branded digital assets?
+
+![UX Design workflow](.gitbook/assets/workflow-project.png)
+
 ## During your project
+
+Keep in mind to regularly check the **TODO:** link to what's new page...
+
+#### Designing a pattern/organism
+
+What to do before you start creating new patterns
+
+![Proces before designing new assets](.gitbook/assets/comliant-yes-no.png)
 
 ## Share with community
 
